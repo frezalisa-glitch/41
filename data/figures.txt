@@ -1,0 +1,10 @@
+# Пример входных данных
+CIRCLE 1
+CIRCLE 2.5
+RECTANGLE 3 4
+RECTANGLE 5 5
+CYLINDER CIRCLE 1 10
+CYLINDER RECTANGLE 2 3 4
+# Строки с ошибками будут пропущены
+RECTANGLE 0 4
+CIRCLE abc
